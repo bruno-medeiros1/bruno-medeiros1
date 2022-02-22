@@ -5,7 +5,10 @@
 
 ## About me:
 
-The idea of programming has always been something that has fascinated me since I started to get involved in technology. After finishing high school, this desire to know how to program, create games, applications and learn several programming languages increased. This is what motivated me to study for computer engineering, attending now my 3st year of Degree in Computer Engineering at 𝗨𝗧𝗔𝗗.
+I'm a web developer by day and a game developer by night. 🕹️
+
+The idea of programming has always been something that has fascinated me since I started to get involved with technology. After finishing high school, this desire to know how to program, create games, applications and learn several programming languages increased. 
+Today, I continue to push myself to learn something new and build new knowledge about my favourite topics.
 
 ## Skills
 
