@@ -39,19 +39,19 @@ Today, I continue to push myself to learn something new and build new knowledge 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=bruno-medeiros1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=0f86f5&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-medeiros1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0f86f5&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-medeiros1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=0f86f5&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
+<!--
 <details>
   <summary>⚡My Recent GitHub Activity</summary>
   <br/>
-<!--START_SECTION:activity-->
   🎉Coming Soon
-<!--END_SECTION:activity-->
 </details>
+-->
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
@@ -67,17 +67,17 @@ Today, I continue to push myself to learn something new and build new knowledge 
 
 If you have any questions for me, feel free to <a href="mailto:geral.brunomedeiros@gmail.com">contact me through email</a>.
 
-Connect with me! Check out my <a href="https://westongraham.github.io">Website</a> or <a href="https://www.linkedin.com/in/westongraham/">LinkedIn</a>.
+Connect with me! Check out my <a href="#">Website (under construction)</a> or <a href="https://www.linkedin.com/in/bruno-medeiros-45b119199/">LinkedIn</a>.
 
   </td>
   <td width="50%" valign="top">
 
 ## Give me feedback
 
-**<a href="https://westongraham.github.io/contact.html"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
+**<a href="#"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
 
-“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-– Elon Musk
+“If you love your work, you’ll be out there every day trying to do it the best you possibly can, and pretty soon everybody around will catch the passion from you like a fever.”
+– Sam Walton
 
   </td>
   </tr>
