@@ -2,15 +2,19 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/bruno-medeiros1)](https://github.com/bruno-medeiros1)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-medeiros-45b119199/)](https://www.linkedin.com/in/bruno-medeiros-45b119199/)
+![Profile views](https://gpvc.arturio.dev/bruno-medeiros1)
 
 ## About me:
 
-I'm a web developer by day and a game developer by night. 🕹️
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Software+Developer;Game+Developer;;Always%20learning%20new%20things)](https://git.io/typing-svg)
 
-The idea of programming has always been something that has fascinated me since I started to get involved with technology. After finishing high school, this desire to know how to program, create games, applications and learn several programming languages increased. 
+<p>The idea of programming has always been something that has fascinated me since I started to get involved with technology. After finishing high school, this desire to know how to program, create games, applications and learn several programming languages increased. 
 Today, I continue to push myself to learn something new and build new knowledge about my favourite topics.
+<p>
 
-## Skills
+<hr>
+
+## 💻Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 #### Languages: <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 
@@ -26,8 +30,59 @@ Today, I continue to push myself to learn something new and build new knowledge 
 
 #### Design: <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/> <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
 
-## Personal Stats:
-[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=bruno-medeiros1&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/bruno-medeiros1)
+<hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-medeiros1&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/bruno-medeiros1)
+## 📊 Github stats
 
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=bruno-medeiros1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=0f86f5&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-medeiros1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0f86f5&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
+
+<!-- https://github.com/jamesgeorge007/github-activity-readme -->
+<details>
+  <summary>⚡My Recent GitHub Activity</summary>
+  <br/>
+<!--START_SECTION:activity-->
+  🎉Coming Soon
+<!--END_SECTION:activity-->
+</details>
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<img alt="Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=bruno-medeiros1&bg_color=1F222E&color=F8D866&line=0f86f5&point=FFFFFF&hide_border=true" />
+</a>
+
+
+<table style="border: none">
+  <tr>
+  <td width="50%" valign="top">
+
+## Let's Work Together!
+
+If you have any questions for me, feel free to <a href="mailto:geral.brunomedeiros@gmail.com">contact me through email</a>.
+
+Connect with me! Check out my <a href="https://westongraham.github.io">Website</a> or <a href="https://www.linkedin.com/in/westongraham/">LinkedIn</a>.
+
+  </td>
+  <td width="50%" valign="top">
+
+## Give me feedback
+
+**<a href="https://westongraham.github.io/contact.html"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
+
+“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
+– Elon Musk
+
+  </td>
+  </tr>
+</table>
+
+------
+Credits: [Bruno Medeiros](https://github.com/bruno-medeiros1)
+Last Edited On: 21/08/2022
