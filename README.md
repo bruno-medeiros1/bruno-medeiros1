@@ -65,7 +65,7 @@ Today, I continue to push myself to learn something new and build new knowledge 
 
 ## Let's Work Together!
 
-If you have any questions for me, feel free to <a href="mailto:geral.brunomedeiros@gmail.com">contact me through email</a>.
+If you have any questions for me, feel free to <a href="mailto:geral.brunomedeiros@gmail.com">contact me through my email</a>.
 
 Connect with me! Check out my <a href="#">Website (under construction)</a> or <a href="https://www.linkedin.com/in/bruno-medeiros-45b119199/">LinkedIn</a>.
 
