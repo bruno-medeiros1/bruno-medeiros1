@@ -2,7 +2,6 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/bruno-medeiros1)](https://github.com/bruno-medeiros1)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-medeiros-45b119199/)](https://www.linkedin.com/in/bruno-medeiros-45b119199/)
-![Profile views](https://gpvc.arturio.dev/bruno-medeiros1)
 
 ## About me:
 
@@ -54,9 +53,6 @@ Today, I continue to push myself to learn something new and build new knowledge 
 -->
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img alt="Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=bruno-medeiros1&bg_color=1F222E&color=F8D866&line=0f86f5&point=FFFFFF&hide_border=true" />
-</a>
 
 
 <table style="border: none">
