@@ -15,9 +15,13 @@ Today, I continue to push myself to learn something new and build new knowledge 
 
 ## 💻Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
-#### Languages: <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+#### Languages: <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/jquery-grey?style=for-the-badge&logo=jquery" /> <img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript"/> <img src="https://img.shields.io/badge/reactjs-blue?style=for-the-badge&logo=react"/> <img src="https://img.shields.io/badge/sql-purple?style=for-the-badge&logo=sql"/>
 
-#### Frameworks, Platforms and Libraries: <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+#### Frameworks, Platforms and Libraries: <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/tailwindcss-navy?style=for-the-badge&logo=tailwindcss"/> <img src="https://img.shields.io/badge/azuredevops-orange?style=for-the-badge&logo=azuredevops"/> <img src="https://img.shields.io/badge/nextjs-507345?style=for-the-badge&logo=nextdotjs"/>
+
+#### Cloud: <img src="https://img.shields.io/badge/azure-yellow?style=for-the-badge&logo=microsoftazure"/> <img src="https://img.shields.io/badge/azurefunctions-green?style=for-the-badge&logo=azurefunctions"/> <img src="https://img.shields.io/badge/azurepipelines-red?style=for-the-badge&logo=azurepipelines"/> <img src="https://img.shields.io/badge/netlify-75f8ff?style=for-the-badge&logo=netlify"/>
+
+#### API: <img src="https://img.shields.io/badge/postman-fedcba?style=for-the-badge&logo=postman"/> <img src="https://img.shields.io/badge/swagger-2d402e?style=for-the-badge&logo=swagger"/>
 
 #### IDEs/Editors: <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
@@ -81,4 +85,4 @@ Connect with me! Check out my <a href="#">Website (under construction)</a> or <a
 
 ------
 Credits: [Bruno Medeiros](https://github.com/bruno-medeiros1)
-Last Edited On: 21/08/2022
+Last Edited On: 12/01/2024
