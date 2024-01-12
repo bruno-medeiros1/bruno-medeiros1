@@ -2,13 +2,13 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/bruno-medeiros1)](https://github.com/bruno-medeiros1)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-medeiros-45b119199/)](https://www.linkedin.com/in/bruno-medeiros-45b119199/)
+[![Website](https://img.shields.io/badge/-Website(soon...)-grey?style=flat-square&logo=homeassistantcommunitystore&logoColor=white&link=https://bruno-medeiros.design/)](https://bruno-medeiros.design)
 
 ## About me:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Software+Developer;Game+Developer;;Always%20learning%20new%20things)](https://git.io/typing-svg)
 
-<p>The idea of programming has always been something that has fascinated me since I started to get involved with technology. After finishing high school, this desire to know how to program, create games, applications and learn several programming languages increased. 
-Today, I continue to push myself to learn something new and build new knowledge about my favourite topics.
+<p>The concept of programming has perpetually captivated my interest ever since I delved into the realm of technology. Following the completion of high school, my eagerness to comprehend programming, develop games and applications, and master various programming languages only intensified. Presently, I remain committed to continuous self-improvement, consistently acquiring new skills and deepening my understanding of my preferred subjects.
 <p>
 
 <hr>
@@ -41,11 +41,18 @@ Today, I continue to push myself to learn something new and build new knowledge 
 <details open> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=bruno-medeiros1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=0f86f5&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-medeiros1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=0f86f5&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bruno-medeiros1&rank_icon=github" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bruno-medeiros1&layout=compact&langs_count=8&card_width=320" />
+  </a>
+  
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
+
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--
@@ -58,7 +65,7 @@ Today, I continue to push myself to learn something new and build new knowledge 
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-
+  <br/>
 <table style="border: none">
   <tr>
   <td width="50%" valign="top">
