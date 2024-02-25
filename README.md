@@ -74,7 +74,7 @@
 
 If you have any questions for me, feel free to <a href="mailto:geral.brunomedeiros@gmail.com">contact me through my email</a> or Discord - *CodingMaestro#3389*.
 
-Connect with me! Check out my <a href="#">Website (under construction)</a> or <a href="https://www.linkedin.com/in/bruno-medeiros-45b119199/">LinkedIn</a>.
+Connect with me! Check out my <a href="https://bruno-medeiros-portefolio.netlify.app/">Website</a> or <a href="https://www.linkedin.com/in/bruno-medeiros-45b119199/">LinkedIn</a>.
 
   </td>
   <td width="50%" valign="top">
@@ -92,4 +92,4 @@ Connect with me! Check out my <a href="#">Website (under construction)</a> or <a
 
 ------
 Credits: [Bruno Medeiros](https://github.com/bruno-medeiros1)
-Last Edited On: 12/01/2024
+Last Edited On: 25/02/2024
