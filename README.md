@@ -2,9 +2,9 @@
 
 ## About me:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Software+Developer;Game+Developer;;Always%20learning%20new%20things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Software+Engineer;Backend+Developer;;Always%20learning%20new%20things)](https://git.io/typing-svg)
 
-<p>The concept of programming has perpetually captivated my interest ever since I delved into the realm of technology. Following the completion of high school, my eagerness to comprehend programming, develop games and applications, and master various programming languages only intensified. Presently, I remain committed to continuous self-improvement, consistently acquiring new skills and deepening my understanding of my preferred subjects.
+<p>I've always been fascinated by programming and everything related to technology. After finishing high school, my curiosity only grew stronger. I wanted to learn how to code, create games and apps, and explore different programming languages. These days, I'm still on that journey, constantly learning new things and improving my skills in the areas I love most.
 <p>
 
 <hr>
@@ -26,5 +26,3 @@ Jira, Postman, Swagger, Confluence
 • Methodologies & Principles:
 DDD, TDD, BDD, Agile (Scrum, Kanban), Strong OOP Fundamentals, SOLID Principles, Design Patterns (Singleton, Dependency Injection, Factory Method, Adapter Pattern)
 <hr>
-
-
