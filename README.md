@@ -2,7 +2,7 @@
 
 ## About me:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Software+Engineer;Backend+Developer;;Always%20learning%20new%20things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Backend+Developer;Web+Developer;;Always%20learning%20new%20things)](https://git.io/typing-svg)
 
 <p>I've always been fascinated by programming and everything related to technology. After finishing high school, my curiosity only grew stronger. I wanted to learn how to code, create games and apps, and explore different programming languages. These days, I'm still on that journey, constantly learning new things and improving my skills in the areas I love most.
 <p>
