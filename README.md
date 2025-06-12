@@ -1,9 +1,5 @@
 ![teste](https://github.com/bruno-medeiros1/bruno-medeiros1/blob/main/bio.gif)
 
-[![Website](https://img.shields.io/badge/-Website-000?style=flat-square&logo=homeassistantcommunitystore&logoColor=white&link=https://bruno-medeiros.design/)](bruno-medeiros-portefolio.netlify.app)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-medeiros-45b119199/)](https://www.linkedin.com/in/bruno-medeiros-45b119199/)
-[![Website](https://img.shields.io/badge/-LeetCode-966e00?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/bruno-medeiros1/)](https://leetcode.com/bruno-medeiros1/)
-
 ## About me:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Software+Developer;Game+Developer;;Always%20learning%20new%20things)](https://git.io/typing-svg)
